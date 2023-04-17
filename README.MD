@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alejandro Castro</h1>
-<h3 align="center">A passionate full stack developer from Spain, I love to build usefull stuff, I speak Spanish and a little bit of English, I have 5+ years of professional experience with the following languages/frameworks</h3>
+<h3 align="center">Im a passionate full stack developer from Spain, I love to build usefull stuff, I speak Spanish and a little bit of English, I have 5+ years of professional experience with the following languages/frameworks</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=litham&label=Profile%20views&color=0e75b6&style=flat" alt="litham" /> </p>
 
