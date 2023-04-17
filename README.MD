@@ -7,7 +7,11 @@
   <img src="https://img.shields.io/badge/-vuejs-36a66c?&style=for-the-badge&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-php-7A86B8?&style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/-laravel-fb1119?&style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-nodejs-1c2fd5?&style=for-the-badge&logo=nodejs&logoColor=white" />
   <img src="https://img.shields.io/badge/-css-1c2fd5?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-css-1c2fd5?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-css-1c2fd5?&style=for-the-badge&logo=css3&logoColor=white" />
+
 </p>
 <br/>
 <p align="center">
